@@ -1,6 +1,6 @@
 # Math Notes
 
-Some math notes based on the Illistrative Mathmatics based on lessons and desmos in class.  
+Some math notes based on the Illistrative Mathmatics currculim. 
 
 -------------------  
 
