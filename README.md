@@ -1,6 +1,10 @@
 # Math Notes
 
-Some math notes based on the Illistrative Mathmatics currculim. 
+Math notes based on the Illistrative Mathmatics currculim.
+
+## Uses
+
+This is for personal uses only, so no push requests will be accepted.
 
 -------------------  
 
